@@ -79,7 +79,7 @@ cd ebook-website
 ## 📄 License
 This project is open-source and available under the MIT License.
 
-
+---
 ---
 
 Let me know if you'd like to:
