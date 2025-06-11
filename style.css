@@ -651,13 +651,15 @@ body.dark-theme{
 
 .new__discount{
   color:var(--title-color);
+  text-decoration: none;
 }
 
 .new__prices{
   font-size: var(--small-font-size);
+}
+.new__price{
   text-decoration: line-through;
 }
-
 .new__stars{
   color:var(--first-color);
 }
